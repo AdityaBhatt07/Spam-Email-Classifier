@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+spam.csv
+train.py
+explore.py
+.git/
+
